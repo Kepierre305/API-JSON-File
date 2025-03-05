@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "iPhone 15",
-      "description": "Apple’s next-generation smartphone with breakthrough performance and design.",
+      "description": "Apple's next-generation smartphone with breakthrough performance and design.",
       "price": 1099,
       "thumbnail": "https://example.com/images/iphone15.jpg",
       "brand": "Apple",
@@ -80,8 +80,5 @@
       "release_date": "2024-12-01",
       "category": "macbook"
     }
-  ],
-  "total": 8,
-  "skip": 0,
-  "limit": 8
+  ]
 }
